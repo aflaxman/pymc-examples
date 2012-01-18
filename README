@@ -7,3 +7,9 @@ notebooks.
 Contents
 --------
 
+pymc-pandas-example.inpynb::
+
+    example of using pandas.Series and pandas.DataFrame as pymc
+    Stochastic and Deterministics
+
+
