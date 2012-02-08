@@ -15,6 +15,10 @@ pymc_and_pandas::
 
 negative_binomial_dist::
 
-    an exploration of how PyMC parameterizes the negative
+    an exploration of how pymc parameterizes the negative
     binomial distribution
 
+function_maximization::
+
+    a simple example of using pymc.MAP to optimize a function of
+    3 variables.
