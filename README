@@ -7,9 +7,14 @@ notebooks.
 Contents
 --------
 
-pymc-pandas-example.inpynb::
+pymc_and_pandas::
 
     example of using pandas.Series and pandas.DataFrame as pymc
     Stochastic and Deterministics
 
+
+negative_binomial_dist::
+
+    an exploration of how PyMC parameterizes the negative
+    binomial distribution
 
