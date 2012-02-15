@@ -7,18 +7,25 @@ notebooks.
 Contents
 --------
 
-pymc_and_pandas::
+pymc_and_pandas:
 
     example of using pandas.Series and pandas.DataFrame as pymc
     Stochastic and Deterministics
 
 
-negative_binomial_dist::
+negative_binomial_dist:
 
     an exploration of how pymc parameterizes the negative
     binomial distribution
 
-function_maximization::
+
+function_maximization:
 
     a simple example of using pymc.MAP to optimize a function of
     3 variables.
+
+
+gibbs_for_uniform_ball:
+
+    a simple example of subclassing pymc.Gibbs and using it to
+    sample uniformly from the unit ball in n-dimensions
