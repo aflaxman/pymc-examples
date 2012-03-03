@@ -29,3 +29,9 @@ gibbs_for_uniform_ball:
 
     a simple example of subclassing pymc.Gibbs and using it to
     sample uniformly from the unit ball in n-dimensions
+
+
+seeds_re_logistic_regression:
+
+    a random effects logistic regression for seed growth, made
+    famous as an example for BUGS
