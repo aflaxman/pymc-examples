@@ -35,3 +35,8 @@ seeds_re_logistic_regression:
 
     a random effects logistic regression for seed growth, made
     famous as an example for BUGS
+
+gp_derivative_constraints:
+
+    an approximation to putting bounds on derivatives of
+    Gaussian Processes
