@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
-# <nbformat>2</nbformat>
+# <nbformat>3.0</nbformat>
+
+# <codecell>
+
+%pylab inline
 
 # <codecell>
 
