@@ -1,8 +1,11 @@
 PyMC by Example
 ===============
 
-This repository includes example applications of PyMC as ipython
-notebooks.
+This repository includes example applications of PyMC as IPython
+Notebooks.  Browse them online here:
+
+    http://nbviewer.ipython.org/github/aflaxman/pymc-examples/tree/master/
+
 
 Contents
 --------
